@@ -28,6 +28,7 @@ A small game about a triangular ghost returning to spirit world after meeting hi
 
 ### **Installation**
 Follow the unity's guide given below
+<br/>
 [Guide](https://unityatscale.com/unity-version-control-guide/how-to-setup-unity-project-on-github/)
 
 <br/>
@@ -35,11 +36,11 @@ Follow the unity's guide given below
 ## **Screenshots**
 <div align="center" ><br/>
 Start Screen<br/><hr width=600/>
-  <img src="./images/homepage.png" width=600 ><br/><br/>
+  <img src="./images/homepage.jpg" width=600 ><br/><br/>
 Story telling with skip option<br/><hr width=600/>
-  <img src="./images/story.png" width=600 ><br/><br/>
+  <img src="./images/story.jpg" width=600 ><br/><br/>
 One of the four levels in game<br/><hr width=600/>
-  <img src="./images/ingame.png" width=600><br/>
+  <img src="./images/ingame.jpg" width=600><br/>
 </div>
 <br/>
 
